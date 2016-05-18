@@ -4,10 +4,9 @@
 int main()
 {
     int m;
-    cout<<"Enter number of objects: ";
     cin>>m;
     beta *obj1=new beta[m];
-    cout<<"Enter number of objects: ";
+    cout<<"Enter number of objects: ggffsse";
     int n;
     cin>>n;
     beta *obj2=new beta[n];
